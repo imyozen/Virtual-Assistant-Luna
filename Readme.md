@@ -13,7 +13,7 @@ This is not a finished product, but a showcase of what I have learned so far.
 ## Installation
 1. Clone the repo
 2. Install requirements: `pip install -r requirements.txt`
-3. Run: `python luna.py`
+3. Run: `python main.py`
 
 ## Future Plans
 - Integration with APIs
