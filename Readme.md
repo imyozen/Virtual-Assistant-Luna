@@ -10,10 +10,12 @@ It can perform basic tasks such as:
 I created Luna to practice Python and demonstrate my programming skills.  
 This is not a finished product, but a showcase of what I have learned so far.
 
-## Installation
-1. Clone the repo
+## 📦 Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/imyozen/Virtual-Assistant-Luna.git
 2. Install requirements: `pip install -r requirements.txt`
-3. Run: `python main.py`
+3. Run: `main.py`
 
 ## Future Plans
 - Integration with APIs
